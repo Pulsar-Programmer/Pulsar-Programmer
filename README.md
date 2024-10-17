@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - ⚡ Fun fact: ...
 -->
+
+<!--
+![](https://github-readme-streak-stats.herokuapp.com/?user=pulsar-programmer&theme=tokyonight&hide_border=false)<br/>
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pulsar-programmer&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pulsar-programmer&langs_count=5&theme=tokyonight)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=pulsar-programmer&margin-w=8&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
+
+-->
