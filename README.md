@@ -19,8 +19,8 @@
   </br>
   </br>
   
-  <a>
-    <img src=https://github-readme-streak-stats.herokuapp.com?user=Pulsar-Programmer&theme=sea&date_format=%5BY.%5Dn.j&card_width=500&card_height=200 />
+  <a href=https://git.io/streak-stats>
+    <img src=https://github-readme-streak-stats.herokuapp.com?user=Pulsar-Programmer&theme=sea&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&fire=FB8C00&ring=FFB924&background=30%2C1565C0%2C303030 />
   </a>
   
   </br>
