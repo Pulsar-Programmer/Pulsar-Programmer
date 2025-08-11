@@ -1,23 +1,33 @@
-<!-- [![Pulsar Programmer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pulsar-Programmer&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)](https://github.com/Pulsar-Programmer) -->
+<p align="center">
+  <a>
+    <img src="https://skillicons.dev/icons?i=js,py,java,cpp,rust,apple,vscode,obsidian,git" />
+  </a>
+  </br>
+  <a>
+    <img src="https://skillicons.dev/icons?i=actix,bevy,tauri,yew,blender,godot" />
+  </a>
+  <!-- In the future, add skill icons for your platforms like GitHub, Discord, Twitter, etc. -->
+</p>
 
-<!--
-**Pulsar-Programmer/Pulsar-Programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  </br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats.vercel.app/api?username=Pulsar-Programmer&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&show_icons=true&icon_color=FFCD61&rank_icon=github&rank_color=000&include_all_commits=true />
+  </a>
+   
+  </br>
+  </br>
+  
+  <a>
+    <img src=https://github-readme-streak-stats.herokuapp.com?user=Pulsar-Programmer&theme=sea&date_format=%5BY.%5Dn.j&card_width=500&card_height=200 />
+  </a>
+  
+  </br>
+  </br>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- ⚡ Fun fact: ...
--->
-
-<!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=pulsar-programmer&theme=tokyonight&hide_border=false)<br/>
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=pulsar-programmer&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pulsar-programmer&langs_count=5&theme=tokyonight)]()
-[![trophy](https://github-profile-trophy.vercel.app/?username=pulsar-programmer&margin-w=8&theme=tokyonight)](https://github.com/ryo-ma/github-profile-trophy)
-
--->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=Pulsar-Programmer&layout=donut-vertical&bg_color=90,24A3FF,ECA1FF&title_color=fff />
+  </a>
+  
+</p>
