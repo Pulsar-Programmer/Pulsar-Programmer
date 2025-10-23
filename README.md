@@ -10,6 +10,12 @@
 </p>
 
 <p align="center">
+  <a>
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pulsar-Programmer&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
+  </a>
+</p>
+
+<p align="center">
   </br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
