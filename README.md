@@ -15,7 +15,8 @@
     <img src=https://github-readme-stats-pulsar.vercel.app/api?username=Pulsar-Programmer&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&show_icons=true&icon_color=FFCD61&rank_icon=github&rank_color=000&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage />
   </a>
 
-  <br>
+  </br>
+  </br>
   
   <a>
     <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pulsar-Programmer&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
@@ -25,7 +26,7 @@
   </br>
   
   <a href=https://git.io/streak-stats>
-    <img src=https://github-readme-streak-stats.herokuapp.com?user=Pulsar-Programmer&theme=sea&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&fire=FB8C00&ring=FFB924&background=30%2C1565C0%2C303030 />
+    <img src=https://github-readme-streak-stats-vijaypur.vercel.app?user=Pulsar-Programmer&theme=sea&date_format=%5BY.%5Dn.j&card_width=500&card_height=200&fire=FB8C00&ring=FFB924&background=30%2C1565C0%2C303030 />
   </a>
   
   </br>
