@@ -10,16 +10,15 @@
 </p>
 
 <p align="center">
-  <a>
-    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pulsar-Programmer&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
-  </a>
-</p>
 
-<p align="center">
-  </br>
-  
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src=https://github-readme-stats-pulsar.vercel.app/api?username=Pulsar-Programmer&bg_color=30,24A3FF,ECA1FF&title_color=3B3B3B&text_color=0f&show_icons=true&icon_color=FFCD61&rank_icon=github&rank_color=000&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage />
+  </a>
+
+  <br>
+  
+  <a>
+    <img src="https://pixel-profile.vercel.app/api/github-stats?username=Pulsar-Programmer&theme=journey&pixelate_avatar=false&include_all_commits=true&color=black" />
   </a>
    
   </br>
