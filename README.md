@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Failure is not an Option%3CT%3E%2C it's a Result%3CT%2CE%3E;joke.await?;Rust+iterators+are+the+best+thing+since+%26Bread[..];In+Rust%2C+None+is+always+an+Option%3C%5F%3E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=750&lines=Failure+is+not+an+Option%3CT%3E%2C+it's+a+Result%3CT%2CE%3E;joke.await?;Rust+iterators+are+the+best+thing+since+%26Bread%5B..%5D;In+Rust%2C+None+is+always+an+Option%3C%5F%3E" alt="Typing SVG" />
 </div>
 
 <div align="center">
