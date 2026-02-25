@@ -17,6 +17,7 @@ In+Rust%2C+None+is+always+an+Option%3C%5F%3E;
 
 
 <div align="center">
+  
   ### Languages
   ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)  
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
@@ -43,9 +44,6 @@ In+Rust%2C+None+is+always+an+Option%3C%5F%3E;
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)  
   ![Godot](https://img.shields.io/badge/godotengine-%23478CBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
   
-
-
-
   ### Frameworks, Platforms, & Libraries
   ![Actix Web](https://img.shields.io/badge/actix--web-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
   ![SurrealDB](https://img.shields.io/badge/surrealdb-%23FF00A0.svg?style=for-the-badge&logo=surrealdb&logoColor=white)
